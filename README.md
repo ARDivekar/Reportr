@@ -80,9 +80,9 @@ Since then, the project has grown and expanded so that now most of the process i
 
 <h2>Conclusion:</h2>
 The end effect of all this is that, we can quickly and painlessly build a large, high quality database of articles, just by specifying the following:<br><ul>
-  <li> The search query topic (eg. "Reliance Industries").</li><br>
-  <li> How many months previously do you want to get articles (from a specified starting point or from the present day).</li><br>
-  <li> How many articles do you want to get per month.</li><br>
+  <li> The search query topic (eg. "Reliance Industries").</li>
+  <li> How many months of articles do you want (from a specified starting point or from the present day).</li>
+  <li> How many articles do you want to get per month.</li>
   <li> Which websites do you want to get these articles from (the extraction-code must already exist).</li><br>
   
 <h3>A test example of a complete script is already present: just execute <i>test_code.py</i></h3>
