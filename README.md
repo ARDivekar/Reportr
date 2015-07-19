@@ -13,13 +13,13 @@ Primary contributor: Abhishek Divekar
   - Internal Python libraries:
     - re
     - random
-      - time
-      - urllib2
-      - sys
-      - os
-      - datetime
-      - pickle 
-      - unicodedata (for formatting purposes)
+    - time
+    - urllib2
+    - sys
+    - os
+    - datetime
+    - pickle 
+    - unicodedata (for formatting purposes)
 
 
 <br>
