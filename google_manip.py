@@ -12,7 +12,7 @@ def google_search_redirect(random_text=None): #throws Google off the scent
 			site:apple.com new iphone
 			site:microsoft.com windows release.
 			site:google.com new savant
-			GRE 
+			GRE test scores
 			site:google.com "GRE"
 			site:flipkart.com "tablets"
 			site:flipkart.com lenovo
