@@ -1,0 +1,21 @@
+__URL__:http://www.business-standard.com/article/news-ians/ibm-announces-densest-most-powerful-microchip-on-market-115071000426_1.html
+
+
+__HEADLINE__:IBM announces densest, most powerful microchip on market
+
+
+__ALT HEADLINE__:
+
+
+__ARTICLE TEXT__:Tech giant IBM has announced it has developed a new microchip for computers that is about four times more powerful that those currently in the market.
+The firm said in a communique on Thursday that it was able to manufacture chips with components just seven nanometres wide -- 1,000 times smaller than a red blood cell, Efe news agency reported.
+The smallest components in computer chips to date are 14 nm in size, although the industry has already begun the transition to producing 10-nm chips.
+Each new generation of chips is defined by the smaller size of its basic components.
+IBM has manufactured the first prototypes of the chips in a laboratory and is currently exploring ways to produce them in its factories.
+The firm said the new advances will enable it to produce chips containing 20 billion transistors, or switches, compared to the 1.9 billion on the Intel's most advanced 14-nm chips.
+The firm is making a big push to reduce the size of transistors and other microscopic components on its fingernail-sized chips, following a trend of increasing computer power -- known as Moore's Law.
+The law -- or, better said, observation -- bears the name of Gordon Moore, one of the pioneers in developing silicon chips and the co-founder of Intel, and holds that, over the history of computing hardware, the number of transistors in a densely integrated circuit has doubled approximately every two years.
+The announcement made on Thursday by IBM means that the past exponential increase in computational power will continue apace for the next few years.
+IBM said it was able to resolve development problems for the new chip by using silicon germanium -- rather than just silicon -- in key parts of the chip, something which makes it possible for even smaller elements in the chip to operate properly.
+"For business and society to get the most out of tomorrow's computers and devices, scaling to seven nm and beyond is essential," said Arvind Krishna, senior vice-president and director of IBM Research.
+IBM and its partners, including Samsung, are planning to invest some $3 billion in a New York state manufacturing plant to produce the tiny seven-nm chips, making them available for installation in computers and other tech devices by 2017.

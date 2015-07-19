@@ -1,0 +1,10 @@
+__URL__:http://www.business-standard.com/article/news-ani/here-s-the-ibm-operations-bunker-that-keeps-wimbledon-ticking-115070300371_1.html
+
+
+__HEADLINE__:Here's the IBM operations bunker that keeps Wimbledon ticking
+
+
+__ALT HEADLINE__:
+
+
+__ARTICLE TEXT__:While Wimbledon is being played in sweltering 35 degrees Celsius heat, it is a vibrant team of IBM engineers in the operations bunker who are the driving force behind the large amount of data collection in the championships to be used by the commentators, the TV and Internet video feeds, and on the Wimbledon.com website and apps.According to Ars Technica, the bunker consists of two rooms. While the first room puts emphasis on lower-level details such as accuracy of data and efficiency of systems, the second room deals with slightly higher-level, operational details.In addition, the IBM bunker is figuring out methods to assess subjective qualities of players and about the physical site itself, the All England Lawn Tennis.The bunker - backed by super speed servers - also uses basic flow analysis aimed at identifying the crowded areas of the club and aiding emergency services.

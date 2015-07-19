@@ -1,0 +1,96 @@
+__URL__:http://www.business-standard.com/article/news-cm/gartner-says-india-software-market-grew-8-percent-in-2014-115052500581_1.html
+
+
+__HEADLINE__:Gartner Says India Software Market Grew 8 Percent in 2014
+
+
+__ALT HEADLINE__:
+
+
+__ARTICLE TEXT__:India Has The Highest Growth Rate Among The BRIC Countries; Microsoft, Oracle And IBM Are The Top 3 VendorsIndia software revenue totaled $4 billion in 2014, an 8.3 percent increase from 2013 revenue of $3.7 billion, according to Gartner, Inc. 
+"The enterprise software marketplace is dynamic and ever-changing. Its growth and structure are being shaped by the factors and forces of decentralized purchasing, consumerization and mobility, influence of emerging markets, cloud-based implementations, and new consumption models," said Bhavish Sood, research director at Gartner." Improvement in global economic conditions has somewhat relaxed the strain on the Indian economy, thereby boosting corporate sentiments. Along with a new stable government at the center, this has helped in alleviating concerns about economic growth  to a certain extent  with early signs of spending in growth initiatives beginning to emerge."
+Several leading trends that are common across the India software market include:
+* Software as a service (SaaS) adoption and development
+* Open-source software (OSS) adoption and its broader market implications
+* Changing buying behaviors and purchasing styles associated with the digital business
+* Spending in key growth markets, such as India and China
+Microsoft maintained the No. 1 position in software revenue in India, accounting for 25 percent of overall sales in 2014 (see Table 1). The top three vendors in the market (Microsoft, Oracle, and IBM), represent 50 percent of total software sales in India.
+Table 1Top 10 Software Vendors in India, by Revenue, 2013-2014 (Millions of Dollars)Vendor
+2013 Revenue
+2013 Market Share (%)
+2014 Revenue
+2014 Market Share (%)
+Growth (%)Microsoft
+954.3
+26
+1017.9
+25
+7Oracle
+484
+13
+516.7
+13
+7IBM
+444
+12
+475.3
+12
+7SAP
+286.1
+8
+317.4
+8
+11VMware
+91.5
+2
+105.3
+3
+15CA Technologies
+54.7
+1
+50.9
+1
+-7Adobe
+42.5
+1
+27.5
+1
+-35SAS
+32.7
+1
+33.1
+1
+1HP
+38.4
+1
+33
+1
+-14Others
+1,271.30
+34
+1,429.40
+36
+12Total
+3,699.50
+100
+4,006.40
+100
+8Source: Gartner (April 2015)Among the main drivers for increased IT adoption is the appreciation of IT as an enabler for business change. Gartner analysts expect enterprises to continue to invest in IT to improve productivity and drive enterprise growth by delivering operational results, while reducing enterprise costs and attracting and retaining customers.
+Among the BRICS (Brazil, Russia, India, China and South Africa), the India software market experienced the highest growth rate (see Table 2). Apart from mega vendors there's a thriving ecosystem of product startups that are getting incubated in India, and as such, they are helping drive software adoption through their innovative, small foot print low cost products.
+Table 2. BRICS Software Spending Growth Rate, 2014-2013 (by Percentage) Country
+2013 Growth 
+2014 Growth Rate (%)
+Rate (%)Brazil
+7.6
+5.4China
+6.8
+3.8India
+10.7
+8.3Russia
+9.2
+-6.4South Africa
+6.3
+4.8Total
+7.9
+3.7Source: Gartner (April 2015)
+"Government plans around Digital India, smart cities, and increased focus on broadband internet infrastructure is expected to drive local consumption of IT software and associated services," said Mr. Sood. "After the last federal election the mood of the economy has changed, and we are slowly seeing a revival in IT spending particularly in areas of digital and nexus of forces that combine cloud, mobile, social and big data."Powered by Capital Market - Live News

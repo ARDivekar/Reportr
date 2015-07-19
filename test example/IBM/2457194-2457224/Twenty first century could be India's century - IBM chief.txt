@@ -1,0 +1,30 @@
+__URL__:http://www.business-standard.com/article/current-affairs/twenty-first-century-could-be-india-s-century-ibm-chief-115071401419_1.html
+
+
+__HEADLINE__:Twenty first century could be India's century - IBM chief
+
+
+__ALT HEADLINE__:Rometty, who is on a two-day visit to the country, was speaking at IBM Think Forum
+
+
+__ARTICLE TEXT__:Ginni Rometty, president and chief executive of American technology giant IBM said the 21st century could be Indias, given many positive signposts such as a strong gross domestic product growth, fourth-largest base of start-ups, and the countrys current focus on digitisation. Rometty, who is on a two-day visit to the country, was speaking at the IBM Think Forum, a flagship event of the company held in India for the first time.
+
+I am optimistic about the tomorrow and this is fact-based, she said.
+
+Adding that the company would be proud to play a role in Indias transformation.
+
+Rometty, who took over as IBM chief in October 2012, is betting on big data; cognitive and predictive analytics, and cloud as the 104 year old giant tries to reinvent itself. India too could gain immensely if it put the data it generated to intelligent use, said Rometty. Comparing data to a natural resource, she said that Indias capacity to produce data can be gauged from the fact that its data traffic is 3.7 zettabytes, which is double of all the data which was there on the Internet two years ago. That information can be the basis of competitive advantage for many companies, she said. However, one can get nothing out of it without analytics.
+
+Rometty, IBMs ninth and first woman CEO played a significant role in the launch of Watson, IBMs artificially intelligent computer system which is capable of answering questions posed in natural language. The system has now been deployed commercially and 5,000 companies and 100 universities are using it globally. Talking extensively about the impact that Watson can have on enterprises, governance and administration, Rometty said that the system could have "profound" impact on healthcare and education in India. She explained with the example of Bangalore, which has seen explosive growth in the recent past and consumes 900 million litres of water each day. Some monitoring, analytics and can help greatly in conservation of water. She gave similar use cases for education and health, calling IBMs initiative in the space of healthcare as a moonshot.
+
+During the Think Forum, Rometty engaged in a discussion with Sunil Bharti Mittal, chief of Bharti Enterprises, which is one of the largest clients of IBM in the country. While Bharti detailed how the company gained by outsourcing its IT to IBM in the early days of the company, Rometty asked him questions on a range of topics including Internet of Things and financial inclusion. Mittal, whose firm has applied for a payment bank license said that banks have to recognise that they will never be able to be efficient on the lower end of the spectrum of financial inclusion. Its not at all possible for them to deliver without making huge losses. They must leave that space for the telecom companies," Mittal said.
+
+He added that the company is hoping for good news from RBI in a few weeks.
+
+"We alone have 1.6 million outlets in the country... 85,000-90,000 branches which receive money from customers everyday to top up vouchers. If they can dispense the money back for people who want to cash out money, they can do the cycle right there at the fraction of the cost," he said.
+
+Citing examples from Kenya, where Vodafone's m-pesa is a dominant player, Mittal said almost the entire economy of the African nation is dependent on m-pesa (Vodafone) and it is more efficient to move money around and make payments. IBM has partnered Bharti &lt;DELETE> in building the platform, added Rometty.
+
+One key issue raised by both Mittal and Rometty was of data security since government, individuals as well as enterprises are concerned about the safety of the data generated and stored by them.
+
+Giving an analogy of the human bodys immune system, Rometty said that it has to be fought not from the periphery but by deploying strong solutions within the organisations. The heart of it will be intelligent data, concluded Rometty who is scheduled to meet the countrys top leadership on Wednesday.

@@ -1,0 +1,10 @@
+__URL__:http://www.business-standard.com/article/pti-stories/ibm-to-set-up-data-centre-in-india-115052200881_1.html
+
+
+__HEADLINE__:IBM to set up data centre in India
+
+
+__ALT HEADLINE__:
+
+
+__ARTICLE TEXT__:Technology giant IBM is planning to set up its second data centre in India to cater to the demand from various sectors including financial services and government.     The US-based firm already has a data centre in Mumbai.     "We are looking at setting up another public cloud data centre. As you know, sectors like government and financial services prefer their data residing within the country," IBM India Managing Director Vanitha Narayanan told PTI.     She declined however to comment on investment details or timeline for the new data centre.     With explosive growth being seen in data creation and consumption, technology companies like IBM and Microsoft are aggressively investing in setting up data centres to host information and offer clients various applications and analytics services.     Last year, Microsoft had announced plans to offer its commercial and cloud services - Azure and Office 365 - from three local data centres by the end of 2015.     The Redmond-based firm had said it sees the cloud opportunity in India to be a USD 2 trillion opportunity.     In October last year, IBM announced the expansion of its global cloud network with its cloud centre in Mumbai.     IBM has centers across London, Amsterdam, Beijing, Hong Kong, Singapore, Melbourne, Toronto, Dallas and Raleigh.     The US-based firm has made a USD 1.2 billion investment in cloud centres across major markets globally.     Since 2007, IBM has invested more than USD 7 billion in 17 acquisitions to accelerate its cloud initiatives.

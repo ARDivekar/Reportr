@@ -1,0 +1,32 @@
+__URL__:http://www.business-standard.com/article/pti-stories/indian-software-market-logs-highest-8-3-growth-among-brics-115052201485_1.html
+
+
+__HEADLINE__:Indian software market logs highest 8.3% growth among BRICS
+
+
+__ALT HEADLINE__:The revenue of Indian software market was at USD 4 billion in 2014 against that of USD 3.7 billion in 2013
+
+
+__ARTICLE TEXT__:India's software market registered the highest growth rate of 8.3 per cent in terms of total revenues among BRICS nations in 2014, market research firm Gartner said today.
+
+The revenue of Indian software market was at USD 4 billion in 2014 against that of USD 3.7 billion in 2013.
+
+The software market in Brazil grew by 5.4 per cent, in South Africa by 4.8 per cent and in China by 3.8 per cent.
+
+In Russia, the market, however, shrunk by 6.4 per cent.
+
+The growth in Indian market was led by Microsoft with 25 per cent market share and revenue of USD 1,017.9 million. Oracle and IBM followed Microsoft with 13 per cent and 12 per cent market share.
+
+Oracle's revenue was at USD 516.7 million, while IBM's at USD 475.3 million in 2014.
+
+SAP's market share stood at 8 per cent with revenue of USD 317.4 million and VMware at 3 per cent at USD 105.3 million.
+
+CA Technologies, Adobe, SAS, HP accounted for 1 per cent market share each, Gartner said.
+
+While the top five vendors registered increase in their revenue, CA Technology's business declined by 7 per cent at revenue of USD 50.9 million in 2014 compared to USD 54.7 million in 2013. Adobe's revenue in India dipped by 35 per cent to USD 27.5 million from USD 38.4 million during period under revenue.
+
+Revenue of HP also declined by 14 per cent to USD 33 million in 2014 from USD 38.4 million in 2013.
+
+"Improvement in global economic conditions has somewhat relaxed the strain on the Indian economy, thereby boosting corporate sentiments. Along with a new stable government at the centre, this has helped in alleviating concerns about economic growth," Gartner Research Director Bhavish Sood said in a statement.
+
+Gartner observed adoption and development of Software as a service, open-source software adoption and Changing buying behaviours and purchasing styles associated with the digital business as common trend between India and global market.
