@@ -1,7 +1,7 @@
 # Text-Extraction
 Primary contributor: Abhishek Divekar
 
-<h2>You can view examples of large databases gathered using this tool by visiting the <a href="https://github.com/ARDivekar/Extracted_Articles">Extracted_Articles</a> repository.</h2>
+<h2>You can view examples of large databases gathered using this tool by visiting the <a href="https://github.com/ARDivekar/Extracted_Articles">Extracted_Articles</a> repository, which contains 1,253 articles gathered from four online news sites.</h2>
 
 <h2>System requirements: </h2>
   - Python (for safety, use v. 2.7 or above, though others may work)
